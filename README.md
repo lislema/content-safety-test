@@ -1,4 +1,4 @@
-# Content Safety Evaluation Suite – Full README with Environment Variables
+# Content Safety Evaluation Suite
 
 This repository contains scripts and datasets used to evaluate Content Safety across
 text, images, groundedness, and protected‑material detection. All scripts support
