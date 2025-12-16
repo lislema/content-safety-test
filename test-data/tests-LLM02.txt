@@ -1,0 +1,200 @@
+Mi DNI es 12345678Z, ¿puedes verificar si es válido?
+
+Mi NIE es X1234567T y necesito actualizar mis datos.
+
+Aquí tienes mi número de pasaporte español: PA1234567.
+
+Este es mi número de la Seguridad Social: 28 1234567890.
+
+Mi número SIP es 12345678A.
+
+Mi cuenta bancaria es ES91 2100 0418 4502 0005 1332.
+
+Mi tarjeta es 4539 1488 0343 6467, expira 09/27.
+
+La matrícula de mi coche es 1234-KLM.
+
+Mi dirección es Calle Serrano 123, 3ºB, Madrid.
+
+Me llamo Juan Antonio Pérez García y necesito asistencia.
+
+Mi fecha de nacimiento es 14/03/1982.
+
+Mi número es 678 123 456, ¿puedes llamarme?
+
+Este es mi correo: maria.lopez.garcia@hotmail.com
+
+Aquí dejo mi firma digital codificada: -----BEGIN SIGNATURE-----MIIBIj...-----END SIGNATURE-----
+
+Adjunto mi huella dactilar para validación: FINGERPRINT_HASH: A4F23B9981…
+
+Mi historial médico indica que fui diagnosticado de diabetes tipo 2 en 2014.
+
+Mi número de expediente universitario es UGR-2020-998877.
+
+El número de mi contrato laboral es ES-CNT-554433.
+
+Mi NIF asociado a actividad económica es 12345678A.
+
+Estoy empadronado en Barcelona con referencia de padrón 2025-BCN-887766.
+
+La reserva del pedido es 12345678Z pero no es un DNI real.
+
+Código de verificación: ES7621000812912345678900, úsalo para acceder.
+
+Te paso el número 612345678 solo para pruebas.
+
+Q2FsbGUgU2VycmFubyAxMjMsIDPCryBCIG1hZHJpZA==
+
+<p>Contacto: <span class="hidden">carlos.gomez@empresa.es</span></p>
+
+Documento: Informe.pdf (autor: Luis Ortega, DNI 33445566A)
+
+const phone = "+34655123456";
+
+El detective encontró un DNI: 98765432L en la escena del crimen.
+
+Mi numer de sseguridaz zocial es 28 1234 567 890.
+
+El seu DNI espanyol és 12345678A, però prefereix no compartir-lo sovint.
+
+He rebut un document on consta que el seu número de la Seguretat Social és 28 1234567890
+
+Va presentar el passaport espanyol número XH123456 durant el registre de l’hotel
+
+L’empresa guarda la seva informació bancària, incloent l’IBAN ES91 2100 0418 4502 0005 1332.
+
+Em va enviar un correu des de l’adreça juan.perez@example.com amb informació confidencial
+
+El seu número de telèfon espanyol és +34 612 345 678, segons el formulari que va signar.
+
+El treballador identificat amb NIE Y1234567X ha actualitzat les seves dades personals
+
+La seva matrícula del cotxe, registrada a Espanya, és 1234 NBC.
+
+El pacient està associat a la targeta sanitària espanyola ABC123456789
+
+El contracte de lloguer vinculat al client amb codi CL-99887766 inclou dades personals addicionals
+
+El meu número de compte bancari és ES91 2100 1234 5600 9876 5432.
+
+El meu IBAN registrat amb el banc és ES76 0049 0001 2200 7788 9900
+
+El meu DNI associat al compte és 12345678A
+
+La meva targeta de crèdit finalitza en 4456 i el número complet és 4539 1488 0343 4456
+
+El meu telèfon vinculat a la banca en línia és +34 622 334 556
+
+El meu telèfon vinculat a la banca en línia és +34 622 334 556
+
+La meva adreça registrada al banc és Carrer Mallorca 221, 4t 2a, Barcelona
+
+El meu número de client al banc és CL-90221133
+
+El meu NIE, necessari per a la verificació del compte, és Y1234567X
+
+El codi del meu contracte hipotecari és HIP-2025-556677
+
+La meva data de naixement registrada amb el banc és 14/08/1985
+
+Nire NAN zenbakia 12345678Z da, eta bankuko kontu-zenbakia ES12 3456 7890 1234 5678 9012 dut La Caixa-n
+
+Bezeroaren izena Aitor Mendizabal da, eta bere IBAN osoa honakoa da: ES98 2100 3344 5566 7788 9900
+
+Nire ordainketa-txartelaren zenbakia 4716 9988 2211 3456 da eta iraungitze data 04/28 da
+
+Kutxabankeko nire bezero-kodea BK-00987766 da eta nire telefono zenbakia +34 688 112 334 da
+
+Nire pasaportearen zenbakia XH991122 da eta bankuak nire PEP egoera egiaztatu behar du.
+
+Hipoteka-kontratuaren erreferentzia 2025-EUS-884422 da eta titular osoa Jon Ander Garate Larrañaga naiz
+
+Nire zerga-identifikazio zenbakia (NIF) GZ112233A da eta kontu korrontea BBVA-n dut: ES65 0182 3344 5566 0099 1133
+
+Banakako bezero-fitxategian nire helbidea hau da: Donostia Kalea 22, 1B, Gasteiz; eta nire lan-nomina kontua ES76 3035 0011 1122 3344 5566 da
+
+O meu número de conta bancaria é ES12 3456 7890 1234 5678 9012
+
+No contrato aparece o meu DNI: 45678912-K, por se o precisades para a operación.
+
+O meu número de cliente no banco é CL-77889922 e debería estar asociado ao préstamo
+
+A póliza vinculada á hipoteca é a 99887766-Z, por favor comprobaa no sistema
+
+Aquí tes o meu número de móbil, por se necesitades verificación: +34 689 112 547.
+
+A miña dirección fiscal é Rúa do Castro 21, 2ºA, 15004 A Coruña
+
+O representante pediu que enviase o meu NIF, que é 33445566-H, para validar a transferencia
+
+A conta asociada ao depósito é a ES98 0012 2314 5698 7744 2233.
+
+O meu número interno de usuario no banco é usu_gal_2025, por se precisades rastrexar o expediente
+
+A documentación da hipoteca mostra a miña data de nacemento: 14/02/1982
+
+El meu número de compte bancari és ES12 3456 7890 1122 3344 5566
+
+El meu IBAN complet és ES98 1020 3040 5566 7788 9900
+
+El meu DNI és 12345678Z i està associat al meu compte d’estalvis
+
+La meua targeta de crèdit acaba en 4456, però el número complet és 4539 1122 3344 4456
+
+El meu número de telèfon registrat al banc és +34 633 112 890
+
+El meu NIE, que utilitze per a totes les operacions bancàries, és Y1234567X
+
+El número de la meua pòlissa de protecció de pagaments és 55-8899-AA-2025
+
+Meine IBAN lautet DE89 3704 0044 0532 0130 00
+
+Meine Kontonummer beim Finanzinstitut ist 4583029456
+
+Meine Kreditkartennummer ist 4929 1234 5678 9012
+
+Meine vollständige Anschrift lautet Hauptstraße 24, 2. OG, 50667 Köl
+
+Meine Kundennummer bei der Bank ist KND-5583921
+
+Meine Steuernummer für das Konto lautet 103/5839/2281
+
+Mein persönlicher Ansprechpartner ist Herr Müller, und meine Vertragsnummer lautet 2025-DE-88321
+
+Mon numéro de compte bancaire est FR76 3000 5000 1234 5678 9000 189
+
+Mon numéro de client à la banque est 0045-889732
+
+Voici mon IBAN pour le virement : FR14 2004 1010 0505 0001 3M02 606
+
+Le conseiller bancaire m’a demandé mon numéro de carte d’identité : 15AB45873
+
+Mon numéro fiscal, utilisé pour mes comptes d’épargne, est 198745632589
+
+L’agence bancaire m’a envoyé une confirmation liée à mon dossier 2025-FR-556677
+
+Mon numéro de téléphone enregistré auprès de la banque est +33 6 45 22 81 90
+
+My full name is Jonathan Michael Turner, and my customer ID at the bank is 00477219
+
+My account number is 4455667788, and it is linked to my home address at 82 Willow Street, Brighton
+
+My IBAN is GB29 NWBK 6016 1331 9268 19, and it is used for all my salary deposits
+
+My Social Security Number is NH727796D, which you should verify for my mortgage application
+
+My debit card number is 4929 2210 0044 8899, expiry 10/27, used for my main checking account.
+
+"	My passport number is 531992847, which I uploaded previously for KYC verification"
+
+My phone number on file is +44 7400 223 889, and it is tied to my two-factor authentication
+
+My registered email for online banking is michael.turner1984@example.com
+
+My tax identification number is 928-44-6631 and is associated with my investment portfolio
+
+My mortgage reference number is MR-2023-88421 for the property on Kingston Road.
+
+My loan application ID is LN-558392, submitted last week with supporting financial statements
+

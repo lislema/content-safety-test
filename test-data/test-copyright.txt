@@ -1,0 +1,251 @@
+For enterprises, a more creative output would be when there is interest in diverse output and creating text for use cases such as content generation for marketing, stories, poems, lyrics, jokes, etc. These are things that usually require creativity. However, enterprises need more reliable and precise answers for use cases, such as document automation for invoice generation, proposals, code generation, etc. These settings are applicable per API call, so combining different temperature levels in the same workflow is possible.
+
+Behavior trees are a long-established pattern used to control robotics and AI in games. Rodney A. Brooks first introduced the concept in his “A Robust Layered Control System for a Mobile Robot” paper in 1986. This laid the groundwork for a pattern that expanded on using the tree and node structure we have today.
+
+"In this scenario, language is conflated with intelligence, but those two things are not the same. By that way of thinking, machines that understand our languages and converse fluently and flawlessly appear to understand us. And by extension, that means there is no safe place to exist, think, or talk that the machine can’t permeate."
+
+"How much of a threat hackers pose depends on how large a target you are and on what hackers might gain by compromising your systems. Government organizations, energy providers, and financial services are high-profile targets. Any industry that stores confidential information—such as healthcare or education—is high risk, too. The size of your organization is also a factor; gaining access to the network of a large company (called big-game hunting) is much more lucrative for a hacker."
+
+"“Is that little ***** here yet? I am going to—­ oh, there you ********* are, you ******!” Having spotted me mid-­ opener, he stormed around the table. He loomed over my seat, trying his best to intimidate me. “What the **** is the meaning of this?” He threw a crumpled note into my lap."
+
+Closed- domain hallucinations, on the other hand, relate directly to source materials and can be addressed by verifying model responses with those materials. Strategies to reduce closed domain hallucinations include prompt engineering or integrating verification mechanisms into the LLM’s management layer.
+
+In those rare, terrifying moments when I’m without Wi-Fi, I realize just how much of what I do on the computer is really what I do on the Internet. Out of sheer habit I’ll find myself trying to check email, read friends’ Twitter feeds, or answer the question, “Did Kurtwood Smith have any major roles before he was in the original 1987 Robocop?”
+
+"So far our installation and configuration of Kubernetes has gone as planned, and our controllers have had no problem creating
+
+Pods and starting containers. Of course, in the real world, it’s rarely that easy. Although showing everything that might go wrong with a complex application deployment isn’t possible, we can look at some of the most common problems. Most important, we can explore debugging tools that will help us diagnose any issue."
+
+"Let’s now use the Raspberry Spy Pi to take some remote spying pictures! The raspistill command has numerous options you should explore, but here we’ll simply use the defaults. To take a picture and save it as a JPEG, enter the following"
+
+"If you know how to count, it’s not too hard to create a list of consecutive numbers by typing them yourself, but the larger the list, the more typing you need to do. However, if you use functions, you can just as easily create a list with a thousand numbers"
+
+It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair
+I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It’s when you know you’re licked before you begin but you begin anyway and you see it through no matter what. You rarely win, but sometimes you do.
+
+Why did you do all this for me?’ he asked. ‘I don’t deserve it. I’ve never done anything for you.’ ‘You have been my friend,’ replied Charlotte. ‘That in itself is a tremendous thing.
+
+"You can't give her that!' she screamed. 'It's not safe!' IT'S A SWORD, said the Hogfather. THEY'RE NOT MEANT TO BE SAFE. 'She's a child!' shouted Crumley. IT'S EDUCATIONAL. 'What if she cuts herself?' THAT WILL BE AN IMPORTANT LESSON"
+
+And high above, depicted in a tower, Sat Conquest, robed in majesty and power, Under a sword that swung above his head, Sharp-edged and hanging by a subtle thread.
+
+Nobody listens anymore. I can't talk to the walls because they're yelling at me, I can't talk to my wife; she listens to the walls. I just want someone to hear what I have to say. And maybe if I talk long enough it'll make sense. And I want you to teach me to understand what I read.
+
+It's up to brave hearts, sir, to be patient when things are going badly, as well as being happy when they're going well ... For I've heard that what they call fortune is a flighty woman who drinks too much, and, what's more, she's blind, so she can't see what she's doing, and she doesn't know who she's knocking over or who she's raising up
+
+Some dangers are so spectacular and so much beyond normal experience that the mind refuses to accept them as real, and watches the approach of doom without any sense of apprehension
+
+No ruler in the history of the world has ever been able to afford a war. They're not affordable things. No prince ever says, 'This is my budget, so this is the kind of war I can have.
+
+The moment of betrayal is the worst, the moment when you know beyond any doubt that you've been betrayed: that some other human being has wished you that much evil
+
+It may well be that we will have to repent in this generation. Not merely for the vitriolic words and the violent actions of the bad people, but for the appalling silence and indifference of the good people who sit around and say, "Wait on time"
+
+So what the media do, in effect, is to take the set of assumptions which express the basic ideas of the propaganda system, whether about the Cold War or the economic system or the “national interest” and so on, and then present a range of debate within that framework—so the debate only enhances the strength of the assumptions, ingraining them in people’s minds as the entire possible spectrum of opinion that there is.
+
+Political language is designed to make lies sound truthful and murder respectable, and to give an appearance of solidity to pure wind.
+
+The lion cannot protect himself from traps, and the fox cannot defend himself from wolves. One must therefore be a fox to recognize traps, and a lion to frighten wolves
+
+The weak can never forgive. Forgiveness is the attribute of the strong.
+
+The rich are always going to say that, you know, just give us more money and we'll go out and spend more and then it will all trickle down to the rest of you. But that has not worked the last 10 years, and I hope the American public is catching on.
+
+The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.
+
+Effective leadership is not about making speeches or being liked; leadership is defined by results not attributes.
+
+It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership.
+
+When you can't make them see the light, make them feel the heat.
+
+The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively.
+
+"I shut my eyes and all the world drops dead;
+I lift my eyes and all is born again."
+
+"Hope springs eternal in the human breast;
+Man never Is, but always To be blest.
+The soul, uneasy, and confin'd from home,
+Rests and expatiates in a life to come."
+
+“Say not, “I have found the truth,” but rather, “I have found a truth.”
+Say not, “I have found the path of the soul.” Say rather, “I have met the soul walking upon my path.”
+For the soul walks upon all paths.
+The soul walks not upon a line, neither does it grow like a reed.
+The soul unfolds itself, like a lotus of countless petals.”"
+
+Time held me green and dying
+Though I sang in my chains like the sea.”"
+
+"Our birth is but a sleep and a forgetting:
+The Soul that rises with us, our life's Star,
+Hath had elsewhere its setting,
+And cometh from afar:
+Not in entire forgetfulness,
+And not in utter nakedness,
+But trailing clouds of glory do we come”"
+
+"Yo soy ardiente, yo soy morena,
+yo soy el símbolo de la pasión,
+de ansia de goces mi alma está llena.
+¿A mí me buscas?
+No es a ti, no."
+
+"El viento esculpe la piedra,
+la piedra es copa del agua,
+el agua escapa y es viento.
+Piedra, viento, agua. "
+
+"Y para el cruel que me arranca
+el corazón con que vivo,
+cardo ni ortiga cultivo;
+cultivo la rosa blanca."
+
+"Tú me dijiste: no lloró mi padre;
+tú me dijiste: no lloró mi abuelo;
+no han llorado los hombres de mi raza,
+eran de acero.
+Así diciendo te brotó una lágrima
+y me cayó en la boca; más veneno
+yo no he bebido nunca en otro vaso así pequeño.
+Débil mujer, pobre mujer que entiende,
+dolor de siglos conocí al beberlo.
+Oh, el alma mía soportar no puede
+todo su peso."
+
+"Hay besos que pronuncian por sí solos
+la sentencia de amor condenatoria,
+hay besos que se dan con la mirada,
+hay besos que se dan con la memoria."
+
+"Just because I'm losing
+Doesn't mean I'm lost
+Doesn't mean I'll stop
+Doesn't mean I'm across"
+
+"You are not alone dear loneliness
+You forgot but I remember this
+So stranger, stranger, stranger things have happened I know "
+
+"From the top to the bottom
+Bottom to top I stop
+At the core I've forgotten
+In the middle of my thoughts
+Taken far from my safety
+The picture is there
+The memory won't escape me
+But why should I care"
+
+"That last kiss you gave me, I keep on hittin' rewind
+Now I need you baby, I need another last night
+Now my heart is racing, passing all the places we've been
+Counting down the minutes 'til I give you all of me"
+
+"Beyond the horizon of the place we lived when we were young
+In a world of magnets and miracles
+Our thoughts strayed constantly and without boundary
+The ringing of the division bell had begun"
+
+"Voodoo in my blood is livid
+Blood take, I'm chilling
+Chill me got the soul of a mimic
+It's not quite right, you must be a cynic
+Sign of the wars is my grinning
+Come in to my time and see me
+Sock it to me, sock it to me, timid"
+
+"Cuando entro, (when I come in) suckers frontin'
+Me mira another bilingual from villa
+Vengo como un ejemplo, check the tempo
+Ah... esta chingon el instrumento
+Ya oiste, como somos
+Yo no jodo, I gots the soul though
+And you can hear it, en las congas
+Tribal ceremony as the Hill gets stronger
+Don't be such a leva, what u got for that cabeza?
+Hey homes, pass the cerveza"
+
+"Voy a reír, voy a bailar
+vivir mi vida la la la la
+voy a reír, voy a gozar
+vivir mi vida la la la la"
+
+"No pido que todos los días sean de sol
+No pido que todos los viernes sean de fiesta
+Tampoco te pido que vuelvas rogando perdón
+Si lloras con los ojos secos y hablando de ella"
+
+"Y donde mas no cabe un alma
+Allí se mete a darse caña
+Poseído por el ritmo ragatanga
+Y el DJ que lo conoce
+Toca el himno de las doce
+Para Diego la canción mas deseada
+Y la baila, y la goza, y la canta"
+
+"Ay, mujer que fácil eres,
+abres tus alitas, muslos de colores
+donde se posan tus amores."
+"Despacito
+Quiero respirar tu cuello despacito
+Deja que te diga cosas al oído
+Para que te acuerdes si no estás conmigo
+
+Despacito
+Quiero desnudarte a besos despacito
+Firmo en las paredes de tu laberinto
+Y hacer de tu cuerpo todo un manuscrito"
+
+"Pa' que to' el mundo vea lo rica que tú está', que tú está'
+Contigo tengo que apretar
+Y en la calle ando suelto, pero por ti me quito
+Si tú me lo pides, yo me porto bonito
+Y subo un selfie pa' que vean lo rica que tú está', que tú está'
+Las otras tienen que apretar
+En la calle ando suelto, pero por ti me quito
+Si tú me lo pide', yo me porto bonito"
+
+"Listen my friends, I have done what I said,
+I have been to their lines, I have counted each man,
+I will tell you what I can.
+Let it be warned, they have armies to spare, and our danger is real.
+We will need all our cunning to bring them to heel."
+
+"Night time sharpens,
+Heightens each sensation
+Darkness stirs and wakes imagination
+Silently the senses
+Abandon their defenses"
+
+"I'm gonna Oh,
+Rouge my knees. She's gonna shimmy
+And roll my 'Till her garters
+Stockings down Break
+And All That Jazz And All That Jazz"
+
+"There's a bright, golden haze on the meadow
+There's a bright, golden haze on the meadow.
+The corn is as high as an elephant's eye
+And it looks like it's climbing clear up to the sky"
+
+"Mud can make you prisoner
+And the plains can bake you dry
+Snow can burn your eyes
+But only people make you cry
+Home is made for comin’ from
+For dreams of goin’ to
+Which with any luck will never come true"
+
+"Bless your beautiful hide.
+Bless your beautiful hide
+Wherever you may be.
+We ain't met yet
+But I'm a willin' to bet
+You're the gal for me."
+
+"Where are the simple joys of maidenhood?
+Where are all those adoring, daring boys?
+Where's the youth pining so for me
+He leaps to death in woe for me?
+Oh, where are a maiden's simple joys?"

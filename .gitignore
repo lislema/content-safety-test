@@ -22,19 +22,8 @@ logs/
 *.log
 *.json
 *.csv
-results/
-output/
 tmp/
 
-# Test input data
-test-data/
-samples/
-*.txt
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.pdf
 
 # Bash script artifacts
 *.tmp

