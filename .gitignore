@@ -1,0 +1,44 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Python / Node (if used in the future)
+__pycache__/
+node_modules/
+
+# Keys and credentials
+*.key
+*.pem
+*.pfx
+.env
+.env.*
+
+# Logs and results
+logs/
+*.log
+*.json
+*.csv
+results/
+output/
+tmp/
+
+# Test input data
+test-data/
+samples/
+*.txt
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.pdf
+
+# Bash script artifacts
+*.tmp
+*.bak
+
+# Jupyter
+.ipynb_checkpoints/
